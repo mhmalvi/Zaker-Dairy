@@ -1,6 +1,8 @@
 <!-- repo-card -->
 ![Zaker-Dairy](docs/assets/social-card.png)
 
+![Zaker-Dairy — architecture](docs/assets/architecture.png)
+
 # Zaker Dairy
 
 An e-commerce platform for dairy products built with Laravel 8. The application features a full shopping experience with product catalog, shopping cart, checkout, customer accounts, and social login integration, all containerized with Docker for easy deployment.
